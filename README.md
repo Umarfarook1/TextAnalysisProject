@@ -1,5 +1,5 @@
+<h1 style="text-align: center;">Data Extraction and NLP</h1>
 
-<p style="text-align: right;">Data Extraction and NLPt</p>
 
 
 
